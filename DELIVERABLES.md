@@ -1,10 +1,15 @@
 # Activity 4: Deliverables Submission
 
-**Course:** Portfolio Building for Engineering Students — GitHub-Integrated Edition (B25GE0101)
+**Course:** Portfolio Building for Engineering Students — GitHub-Integrated Edition (B25GE0101) 
+
 **Student Name:** Abdullah Subhaan K
+
 **Roll Number:** R25EF002
+
 **Class & Section:** [CSE B], 3rd Semester
+
 **Language:** Python 3
+
 **Repository:** https://github.com/abdullahsubhaank/leetcode-solutions
 
 ---
